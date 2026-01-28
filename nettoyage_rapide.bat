@@ -1,6 +1,6 @@
 @echo off
 REM ========================================
-REM Script de nettoyage systeme Windows
+REM Script de nettoyage systeme Windows 11
 REM Supprime fichiers temp + Vide DNS + ARP
 REM ========================================
 
