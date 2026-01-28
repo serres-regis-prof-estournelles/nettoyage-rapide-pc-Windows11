@@ -4,6 +4,8 @@
 #
 # A utiliser sur un PC personnel
 #
+📢 Message : L'éditeur n'a pas pu être vérifié. Voulez-vous vraiment exécuter ce logiciel ? ► Cliquer sur [Exécuter]
+#
 Ce que fait le script :
 #
 ✅ Supprime les fichiers temporaires (utilisateur + Windows)
