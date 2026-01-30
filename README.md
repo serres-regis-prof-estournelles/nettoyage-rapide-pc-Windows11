@@ -1,8 +1,8 @@
-# Script supprimant les éléments essentiels (fichiers temp + DNS) plus le cache ARP et Winsock, car ces opérations réseau vont bien ensemble et améliorent souvent la connectivité. 
+## Script supprimant les éléments essentiels (fichiers temp + DNS) plus le cache ARP et Winsock, car ces opérations réseau vont bien ensemble et améliorent souvent la connectivité. 
 #
-# Très rapide et très simple à utiliser (bouton droit de la souris ► Exécuter en tant qu'administrateur
+## Très rapide et très simple à utiliser (bouton droit de la souris ► Exécuter en tant qu'administrateur
 #
-# A utiliser sur un PC personnel
+## A utiliser sur un PC personnel
 #
 📢 Message : L'éditeur n'a pas pu être vérifié. Voulez-vous vraiment exécuter ce logiciel ? ► Cliquer sur [Exécuter]
 #
@@ -46,8 +46,10 @@ Le script affiche sa progression et confirme chaque opération. Aucun redémarra
 ❌ Cache ARP (adresses réseau locales)
 #
 
-# En résumé : Ce script fait un nettoyage "invisible" pour l'utilisateur. 
+## En résumé : Ce script fait un nettoyage "invisible" pour l'utilisateur. 
 #
-Vous ne verrez aucune différence dans votre utilisation quotidienne, sauf peut-être une connexion Internet qui fonctionne mieux si vous aviez des problèmes.
+Vous ne verrez **aucune différence** dans votre utilisation quotidienne, sauf peut-être une connexion Internet qui fonctionne mieux si vous aviez des problèmes.
 #
 Tout ce qui est important pour vous (mots de passe, connexions, favoris) reste exactement comme avant. 👍
+#
+👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
