@@ -52,4 +52,4 @@ Vous ne verrez **aucune différence** dans votre utilisation quotidienne, sauf p
 #
 Tout ce qui est important pour vous (mots de passe, connexions, favoris) reste exactement comme avant. 👍
 #
-👤 Auteur : SERRES Régis Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
+👤 Auteur : SERRES Régis - Enseignant - Lycée Estournelles de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
